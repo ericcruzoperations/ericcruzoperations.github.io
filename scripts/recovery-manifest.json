@@ -87,7 +87,13 @@
     "samples/keyword-categorization.csv": "838b0155af17f0f01be341a4d5ff9d9a3ff7f8480a6276addb0388cc5c9dfff2",
     "samples/operations-handoff-template.csv": "1179cc5ce7f56d6c73b4cc4e1eaa0ae6979266bfcc416d1f3f6aaa9c6a1d3230",
     "samples/seo-reporting-review-template.csv": "2a743030124485403bdc4aeed583b7312d891560e5267fe60daf88f2586b684e",
-    "styles.css": "d647c9d17714aafb952180c9505f1c5a98990dc487da4123ee35b7d5e56d3fce",
     "favicon.svg": "38b9c2d137b275c4668ed689aa3f70dc043b615b83c8ba22a182cff837e2e7a1"
+  },
+  "adapted_assets": {
+    "styles.css": {
+      "recovered_sha256": "d647c9d17714aafb952180c9505f1c5a98990dc487da4123ee35b7d5e56d3fce",
+      "current_sha256": "e643b6431587dd6fd5d22be9b1dcb9602b288a829d2e9d9bbcf9278a28849c62",
+      "change": "Requested bold, upright sans-serif homepage hero; other styling retained."
+    }
   }
 }

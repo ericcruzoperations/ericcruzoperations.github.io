@@ -106,7 +106,7 @@ function fail(label,message){report.failures.push({label,message})}
   for(const [file,hash] of Object.entries(manifest.preserved_assets)){
    assert.equal(crypto.createHash('sha256').update(fs.readFileSync(path.join(root,file))).digest('hex'),hash,'Recovered asset changed: '+file);
   }
-  report.checks.push('Original photo, styles, favicon and four samples preserved by SHA-256');
+  report.checks.push('Original photo, favicon and four samples preserved by SHA-256');
   report.external=[];
   for(const url of external){
    if(process.env.VA_OFFLINE==='1'){report.external.push({url,verified:false,reason:'Local network unavailable'});continue}
@@ -119,7 +119,7 @@ function fail(label,message){report.failures.push({label,message})}
   for(const file of pages)assert.ok(sitemap.includes(publicBase+file.replace(/(?:^|\/)index\.html$/,'')));
   report.checks.push('Operations pages included in sitemap');
   if(live){
-   const r=await context.request.get(base+'styles.css?v=20261015');
+   const r=await context.request.get(base+'styles.css?v=20261015-hero');
    assert.equal(await r.text(),fs.readFileSync(path.join(root,'styles.css'),'utf8'));
    report.checks.push('Live stylesheet matches reviewed source');
   }
