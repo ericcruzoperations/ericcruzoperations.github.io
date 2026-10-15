@@ -1,0 +1,93 @@
+{
+  "source_repository": "ericcruzdigital/ericcruzdigital.github.io",
+  "source_pr": 11,
+  "source_commit": "25e757d40f8a2c0688b216d77099fc95175cc068",
+  "successful_qa_run": 38361197187,
+  "recovered": {
+    "favicon.svg": {
+      "sha256": "38b9c2d137b275c4668ed689aa3f70dc043b615b83c8ba22a182cff837e2e7a1",
+      "bytes": 250
+    },
+    "assets/eric-headshot-v2.webp": {
+      "sha256": "7c1628d10a25781d1c690f33daec453c53d67e53bec3616cc31c1282737d02b3",
+      "bytes": 10518
+    },
+    "downloads/Eric_John_Cruz_Virtual_Assistant_Resume.docx": {
+      "sha256": "f520871d1b72902d60ce49bcb6ab98509195f776ca29aacd3c0c0e5bf1bbd443",
+      "bytes": 38372
+    },
+    "downloads/Eric_John_Cruz_Virtual_Assistant_Resume.pdf": {
+      "sha256": "9458fb60e44ec224dd259bb27972d76f49afdf0c6df454a016d39809e6df4bd7",
+      "bytes": 40600
+    },
+    "samples/email-reporting-excerpt.csv": {
+      "sha256": "363681769cb3d89d2586e4adde6ad39b5e4a07757e8a7f7f728acf1a4ad15379",
+      "bytes": 428
+    },
+    "samples/keyword-categorization.csv": {
+      "sha256": "838b0155af17f0f01be341a4d5ff9d9a3ff7f8480a6276addb0388cc5c9dfff2",
+      "bytes": 351
+    },
+    "samples/operations-handoff-template.csv": {
+      "sha256": "1179cc5ce7f56d6c73b4cc4e1eaa0ae6979266bfcc416d1f3f6aaa9c6a1d3230",
+      "bytes": 203
+    },
+    "samples/seo-reporting-review-template.csv": {
+      "sha256": "2a743030124485403bdc4aeed583b7312d891560e5267fe60daf88f2586b684e",
+      "bytes": 289
+    },
+    "scripts/build-va-resume.py": {
+      "sha256": "342f560b6ba3e2740cf94fa243d47010406f59629624f6e22be7b54723dae5fa",
+      "bytes": 4446
+    },
+    "scripts/check-va-resume.py": {
+      "sha256": "36dbba376506dde0757ad261a75338bdfe1e416ddcbdc320dde2bb037cdfdd3f",
+      "bytes": 2268
+    },
+    "scripts/check-va-site.cjs": {
+      "sha256": "f06e5f44b6b2d9a76b173212aa02b42390d3bbbedf8ca9fc25c4a4078ed6da00",
+      "bytes": 8882
+    },
+    "scripts/VA-PORTFOLIO.md": {
+      "sha256": "f2ed3e95b9ea90a173784e42469929d179e3f7c0540dd148dc43b840ca95012a",
+      "bytes": 3477
+    },
+    "scripts/va-resume.json": {
+      "sha256": "ca75a4b5116c72bfeffc3124032a3e981bbe62723227a7cb5b96a0ff10d42c21",
+      "bytes": 3320
+    },
+    "virtual-assistant/index.html": {
+      "sha256": "fd67be011c787f07ef281206dc9cf641237626f8dc1bb833958eb0c0cbae7a89",
+      "bytes": 12382
+    },
+    "virtual-assistant/resume.html": {
+      "sha256": "4d517a028e53ec1c3cec08194ca5caf6ca2b42d01eea50f977645dccb7fdd9c4",
+      "bytes": 8303
+    },
+    "virtual-assistant/styles.css": {
+      "sha256": "d647c9d17714aafb952180c9505f1c5a98990dc487da4123ee35b7d5e56d3fce",
+      "bytes": 14607
+    },
+    "virtual-assistant/work.html": {
+      "sha256": "b5c4a75215d601701a54b2d831a08608e646466e151ad32d1576057b1cc7ed52",
+      "bytes": 12952
+    },
+    ".github/workflows/va-portfolio.yml": {
+      "sha256": "2281d2b688da1b31a1efcdc8be353fe760cc803b51ac21ab3e4f10fa5f90dc42",
+      "bytes": 4226
+    },
+    "scripts/qa/render_docx.py": {
+      "sha256": "876d5993324e2faaaa96a68a4f7504642e9a07e6df265b385b2baa03b231369e",
+      "bytes": 19702
+    }
+  },
+  "preserved_assets": {
+    "assets/eric-headshot-v2.webp": "7c1628d10a25781d1c690f33daec453c53d67e53bec3616cc31c1282737d02b3",
+    "samples/email-reporting-excerpt.csv": "363681769cb3d89d2586e4adde6ad39b5e4a07757e8a7f7f728acf1a4ad15379",
+    "samples/keyword-categorization.csv": "838b0155af17f0f01be341a4d5ff9d9a3ff7f8480a6276addb0388cc5c9dfff2",
+    "samples/operations-handoff-template.csv": "1179cc5ce7f56d6c73b4cc4e1eaa0ae6979266bfcc416d1f3f6aaa9c6a1d3230",
+    "samples/seo-reporting-review-template.csv": "2a743030124485403bdc4aeed583b7312d891560e5267fe60daf88f2586b684e",
+    "styles.css": "d647c9d17714aafb952180c9505f1c5a98990dc487da4123ee35b7d5e56d3fce",
+    "favicon.svg": "38b9c2d137b275c4668ed689aa3f70dc043b615b83c8ba22a182cff837e2e7a1"
+  }
+}

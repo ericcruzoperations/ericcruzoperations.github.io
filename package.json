@@ -1,0 +1,15 @@
+{
+  "name": "eric-cruz-operations",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Eric John Cruz | Operations, Administrative & Digital Support",
+  "scripts": {
+    "check": "node scripts/check-va-site.cjs",
+    "check:live": "node scripts/check-va-site.cjs --live",
+    "package": "python scripts/package-site.py"
+  },
+  "devDependencies": {
+    "axe-core": "4.11.0",
+    "playwright": "1.56.1"
+  }
+}
