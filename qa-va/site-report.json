@@ -1,0 +1,168 @@
+{
+  "mode": "preview",
+  "viewports": [
+    1440,
+    768,
+    390,
+    320
+  ],
+  "accessibility": [
+    {
+      "file": "index.html",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "file": "work.html",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "file": "resume.html",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "file": "index.html",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "file": "work.html",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "file": "resume.html",
+      "width": 390,
+      "violations": []
+    }
+  ],
+  "downloads": [
+    {
+      "url": "http://127.0.0.1:33091/downloads/Eric_John_Cruz_Virtual_Assistant_Resume.pdf",
+      "bytes": 4588,
+      "exactMatch": true
+    },
+    {
+      "url": "http://127.0.0.1:33091/downloads/Eric_John_Cruz_Virtual_Assistant_Resume.docx",
+      "bytes": 38352,
+      "exactMatch": true
+    },
+    {
+      "url": "http://127.0.0.1:33091/samples/email-reporting-excerpt.csv",
+      "bytes": 428,
+      "exactMatch": true
+    },
+    {
+      "url": "http://127.0.0.1:33091/samples/seo-reporting-review-template.csv",
+      "bytes": 289,
+      "exactMatch": true
+    },
+    {
+      "url": "http://127.0.0.1:33091/samples/operations-handoff-template.csv",
+      "bytes": 203,
+      "exactMatch": true
+    },
+    {
+      "url": "http://127.0.0.1:33091/samples/keyword-categorization.csv",
+      "bytes": 351,
+      "exactMatch": true
+    }
+  ],
+  "links": [
+    {
+      "url": "http://127.0.0.1:33091/#main",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:33091/",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:33091/#support",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:33091/work.html",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:33091/#experience",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:33091/resume.html",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:33091/#contact",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:33091/downloads/Eric_John_Cruz_Virtual_Assistant_Resume.pdf",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:33091/downloads/Eric_John_Cruz_Virtual_Assistant_Resume.docx",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:33091/work.html#reporting",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:33091/work.html#coordination",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:33091/work.html#content",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:33091/work.html#main",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:33091/samples/email-reporting-excerpt.csv",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:33091/samples/seo-reporting-review-template.csv",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:33091/samples/operations-handoff-template.csv",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:33091/samples/keyword-categorization.csv",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:33091/resume.html#main",
+      "status": 200
+    }
+  ],
+  "checks": [
+    "Keyboard skip navigation works",
+    "Actual PDF and Word download interactions",
+    "Navigation available at 320px without JavaScript",
+    "Public email and LinkedIn destinations match verified source",
+    "Original photo, styles, favicon and four samples preserved by SHA-256",
+    "Operations pages included in sitemap"
+  ],
+  "failures": [],
+  "external": [
+    {
+      "url": "https://www.linkedin.com/in/eric-john-cruz-ree/",
+      "status": 999,
+      "verified": false
+    },
+    {
+      "url": "https://ericcruzdigital.github.io/",
+      "status": 200,
+      "verified": true
+    }
+  ]
+}
