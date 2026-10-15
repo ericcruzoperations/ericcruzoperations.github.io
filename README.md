@@ -21,7 +21,7 @@ Legacy download filenames are retained for compatibility. Public branding is Eri
 
 Recovered from `Virtual_Assistant_Portfolio_Migration.zip`, prepared on 13 October 2026. The original source is PR 11 in `ericcruzdigital/ericcruzdigital.github.io`, branch `virtual-assistant-portfolio-20261013`, commit `25e757d40f8a2c0688b216d77099fc95175cc068`.
 
-`scripts/recovery-manifest.json` records source fingerprints. The original CSS, portrait, favicon and four sample files are preserved by SHA-256. Only the dedicated site and supporting files were extracted. The marketing and electrical engineering repositories are not modified by this project or workflow.
+`scripts/recovery-manifest.json` records source fingerprints. The original portrait, favicon and four sample files are preserved by SHA-256. The recovered CSS retains the original design, with a requested bold, upright sans-serif homepage headline. Only the dedicated site and supporting files were extracted. The marketing and electrical engineering repositories are not modified by this project or workflow.
 
 ## Build and validation
 
