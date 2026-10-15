@@ -52,6 +52,8 @@ GitHub Pages uses GitHub Actions on `main`. The workflow validates branches and 
 
 Official GitHub-maintained Actions are pinned to immutable commits. Build permissions are read-only. Only deployment requests `pages: write` and `id-token: write`. No personal access token, private backend or form-service credential is needed.
 
+For same-repository pull requests, a separate review job uses `contents: write` only to preserve QA images and reports on a unique `qa/operations-<run>-<attempt>` branch. It does not update the source branch or `main`. This permits visual review when artifact downloads are unavailable. QA branches are excluded from deployment triggers.
+
 ## Professional accuracy
 
 Historical titles, dates and tools remain tied to the recovered evidence. The current headline describes transferable capabilities. Samples omit client identifiers, contact records, private figures and internal task boards. Blank templates are explicitly labeled. No testimonials, unsupported qualifications or performance gains are invented.
