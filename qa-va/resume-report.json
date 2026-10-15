@@ -1,0 +1,15 @@
+{
+  "pages": 1,
+  "sharedFacts": 26,
+  "formats": [
+    "Word",
+    "PDF",
+    "online"
+  ],
+  "tables": 0,
+  "images": 0,
+  "selectableText": true,
+  "result": "passed",
+  "renderedWordPages": 1,
+  "renderedWordFacts": 26
+}

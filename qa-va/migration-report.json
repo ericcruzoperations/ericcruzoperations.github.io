@@ -1,0 +1,26 @@
+{
+  "result": "passed",
+  "pages": 3,
+  "caseStudies": 3,
+  "localTargets": [
+    "assets/eric-headshot-v2.webp",
+    "downloads/Eric_John_Cruz_Virtual_Assistant_Resume.docx",
+    "downloads/Eric_John_Cruz_Virtual_Assistant_Resume.pdf",
+    "favicon.svg",
+    "index.html",
+    "resume.html",
+    "samples/email-reporting-excerpt.csv",
+    "samples/keyword-categorization.csv",
+    "samples/operations-handoff-template.csv",
+    "samples/seo-reporting-review-template.csv",
+    "styles.css",
+    "work.html"
+  ],
+  "preservedAssets": 6,
+  "externalLinks": [
+    "https://ericcruzdigital.github.io/",
+    "https://www.linkedin.com/in/eric-john-cruz-ree/"
+  ],
+  "externalNetworkVerification": "pending",
+  "scope": "Static migration checks; browser and live checks are separate."
+}
