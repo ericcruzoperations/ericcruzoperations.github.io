@@ -1,0 +1,4 @@
+Keyword pattern,Group,Use
+linehaul,Primary service,A core transport service to review against the business offering.
+fulfillment center [location],Supporting service,Connect a fulfillment topic with the location the business serves.
+overstock warehouse [location],Local service,Group warehouse queries by local intent before choosing the target page.

@@ -1,0 +1,5 @@
+* text=auto eol=lf
+*.csv -text
+*.pdf binary
+*.docx binary
+*.webp binary
