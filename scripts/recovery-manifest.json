@@ -92,8 +92,8 @@
   "adapted_assets": {
     "styles.css": {
       "recovered_sha256": "d647c9d17714aafb952180c9505f1c5a98990dc487da4123ee35b7d5e56d3fce",
-      "current_sha256": "e643b6431587dd6fd5d22be9b1dcb9602b288a829d2e9d9bbcf9278a28849c62",
-      "change": "Requested bold, upright sans-serif homepage hero; other styling retained."
+      "current_sha256": "fd15a08ba6d9c0f8db118071a1b6b9c9c4f14c23e0d1d707fe710a41de7eb2c8",
+      "change": "Requested bold, upright sans-serif page headlines; other styling retained."
     }
   }
 }

@@ -119,7 +119,7 @@ function fail(label,message){report.failures.push({label,message})}
   for(const file of pages)assert.ok(sitemap.includes(publicBase+file.replace(/(?:^|\/)index\.html$/,'')));
   report.checks.push('Operations pages included in sitemap');
   if(live){
-   const r=await context.request.get(base+'styles.css?v=20261015-hero');
+   const r=await context.request.get(base+'styles.css?v=20261015-headings');
    assert.equal(await r.text(),fs.readFileSync(path.join(root,'styles.css'),'utf8'));
    report.checks.push('Live stylesheet matches reviewed source');
   }

@@ -9,7 +9,7 @@ This release continues the recovered standalone project. The source PR remains o
 - Primary input: the 13 October 2026 migration archive containing 30 project files.
 - Original source head rechecked as `25e757d40f8a2c0688b216d77099fc95175cc068` on 15 October 2026.
 - The contrast correction, explicit mobile headline spacing and inherited Word-border removal are retained.
-- Original portrait, favicon and four public CSV samples remain byte-for-byte unchanged. The homepage headline now uses bold, upright sans-serif typography at the owner's request; the remaining recovered styling is retained.
+- Original portrait, favicon and four public CSV samples remain byte-for-byte unchanged. The page headlines now use bold, upright sans-serif typography at the owner's request; the remaining recovered styling is retained.
 - Public branding, metadata, contact subject and all required URLs were adapted for Eric Cruz Operations at the domain root.
 - Historical roles, dates, capabilities and case-study evidence remain unchanged.
 
